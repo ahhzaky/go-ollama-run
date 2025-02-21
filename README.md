@@ -59,8 +59,8 @@ req := Request{
 Conversation history is stored in conversation.txt with the format:
 
 ```bash
-User: [Pesan pengguna]
-Ollama: [Respon AI]
+User: [Message User]
+Ollama: [Response AI]
 ```
 
 ## License 📄
